@@ -1,0 +1,2 @@
+# upgrade-os
+system upgrade
